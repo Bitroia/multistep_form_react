@@ -1,0 +1,7 @@
+.active{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+}

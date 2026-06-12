@@ -1,0 +1,7 @@
+.form-control.score-container{
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.score
